@@ -1,7 +1,6 @@
 {
   "name": "ra-hw3-props-listing",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://github.com/AlexKranov/ra-props-listing.git/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
